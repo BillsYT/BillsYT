@@ -1,0 +1,51 @@
+h1,h3{
+	font-family: Arial;
+	color: #d3d3d3;
+	font-size:300%;
+	text-align:center;
+	
+}
+
+h4{
+	font-family: Arial;
+	color: #d3d3d3;
+	font-size:150%;
+	text-align:center;
+	
+}
+
+
+
+p{
+	font-family: Arial;
+    color:#d3d3d3;
+    font-size:100%;
+    text-align:center;
+   
+}
+
+label, form{
+	font-family: Arial;
+    color:#bfbfbf;
+   
+}
+
+ol,ul{
+	text-align: center;
+	
+}
+
+input{
+	color:#ffffff;
+	background-color:#4669a3;
+}
+	
+
+body {
+ background-image: url("Metal-2.jpg");
+ background-color:#000000;
+}
+
+b{
+	color:#d3d3d3;
+}
